@@ -6,7 +6,7 @@ Follows RFC 3526: https://www.ietf.org/rfc/rfc3526.txt
 BigInteger and SecureRandom.
 
 # Author:
-Hussien Yousef(l0ve)
+Hussien Yousef
 
 # Usage:
 Class "DHtest" shows how to use this implementation and a proposed scenario.
