@@ -1,7 +1,7 @@
 /* 
  * Class Name:         DH2048
  * Class Dependencies: SecureRandom, BigInteger
- * Author: Hussien Yousef (l0ve)
+ * Author: Hussien Yousef
  * CLASS DISCRIPTION:  THIS CLASS IMPLMENENTS DIFFIE-HELLMAN 2048 bit IN JAVA LANGUAGE
  * Follows RFC 3526 :  https://www.ietf.org/rfc/rfc3526.txt
  */
